@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+
+# Lib and Scripts directories
+/venv/Lib
+/venv/Scripts
+
+# pyvenv config file
+/venv/pyvenv.cfg
+
+# PyCharm config directory
+.idea
+.idea/*
+
